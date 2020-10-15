@@ -28,11 +28,12 @@ Before you begin, ensure you have met the following requirements:
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQGTZHmBgyuEk24MzXj0_1OvmdBGeHps7TQyQ&usqp=CAU">
 </br></br>
 
-<b>To install <project_name> through Command Line:</b>
+<b>To install Microbit-Digital-Watch-Module through Command Line:</b>
 
-<b>`<Enter OS Name>`-</b>
+Windows/MacOS/Linux
+
 ```
-git clone `<project HTML download link>`
+git clone https://github.com/NousernameCode/Microbit-Digital-Watch-Module.git
 ```
 
 ## Contributors
@@ -57,6 +58,5 @@ git clone `<project HTML download link>`
 <b>Instagram:</b> [@nousername_code](https://www.instagram.com/nousername_code/)
 
 ## License
-<!--- If you're not sure which open license to use see https://choosealicense.com/--->
 
 This project uses the following license: [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)
