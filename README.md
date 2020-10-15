@@ -10,15 +10,13 @@
 
 ## Prerequisites
 
-Before you begin, ensure you have met the following requirements:
-<!--- These are just example requirements. Add, duplicate or remove as required --->
-* You have installed the latest version of `<coding_language/dependency/requirement_1>`
+Before you begin, ensure you have met the following requirements
+
 * You have a `<Windows/Linux/Mac>` machine. State which OS is supported/which is not.
-* You have read `<guide/link/documentation_related_to_project>`.
 
-## Installing <project_name>
+## Installing Microbit-Digital-Watch-Module
 
-<b>To install <project_name> as a ZIP file:</b>
+<b>To install Microbit-Digital-Watch-Module as a ZIP file:</b>
 
 * Click the <b>Green</b> button at the right side of the repository that says <b>"Code"</b> in Github that you want to clone/download</br>
 * Click <b>"Download ZIP"</b> which is boxed in <b>Red</b> in the picture below</br>
