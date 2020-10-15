@@ -52,7 +52,9 @@ git clone `<project HTML download link>`
 
 ## Contact
 
-If you want to contact me you can reach me at <nsgcoding@gmail.com>.
+<b>Email:</b> <nsgcoding@gmail.com> </br>
+<b>Twitter:</b> [@nousername_code](https://twitter.com/nousername_code) </br>
+<b>Instagram:</b> [@nousername_code](https://www.instagram.com/nousername_code/)
 
 ## License
 <!--- If you're not sure which open license to use see https://choosealicense.com/--->
