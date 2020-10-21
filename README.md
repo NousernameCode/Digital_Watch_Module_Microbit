@@ -10,9 +10,20 @@
 
 ## Prerequisites
 
-Before you begin, ensure you have met the following requirements
+<h3>Before you begin, ensure you have met the following requirements:</h3>
 
-* You have a `<Windows/Linux/Mac>` machine. State which OS is supported/which is not.
+* You have a PC running either <b>Windows/MacOS/ChromeOS/Any Linux Distro</b>
+* You have a micro:bit kit that includes the <b>BBC micro:bit, USB Cable, Battery holder</b> & <b>2 AAA Batteries</b>
+</br>
+
+## Compatibility
+
+<b>This Module is compatible with the following devices</b> </br>
+
+* [BBC Micro:bit](https://microbit.org/) (2016)
+* [BBC Micro:bit](https://microbit.org/) (2020)
+
+</br>
 
 ## Installing Microbit-Digital-Watch-Module
 
