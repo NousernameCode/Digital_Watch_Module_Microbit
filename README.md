@@ -44,6 +44,69 @@ Windows/MacOS/Linux
 ```
 git clone https://github.com/NousernameCode/Microbit-Digital-Watch-Module.git
 ```
+## Contributing to Microbit-Digital-Watch-Module
+
+<b>Prerequisites:</b>
+
+* Have A Github Account </br>
+  [Create one?](https://github.com/join)
+* Have Git installed on your device </br>
+  [Download it here](https://git-scm.com/downloads)
+* Have one off the following 2 options
+  * Option 1
+    * have GitHub Desktop installed & Signed in </br>
+    [Download GitHub Desktop](https://desktop.github.com/)
+  * Option 2
+    * Have an private SSH key on your device that has </br>
+    its public counterpart linked to your GitHub Account </br>
+    [Generating an SSH key](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account) </br>
+    [Adding an SSH key to your account](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
+<b>To contribute to Microbit-Digital-Watch-Module, follow these steps:</b>
+
+1. <h3>Fork this Repository</h3>
+   
+   [Heres how](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo)
+2. <h3>Clone the forked Repository to your device</h3>
+   
+   ```
+   git clone https://github.com/NousernameCode/Microbit-Digital-Watch-Module.git
+   ```
+3. <h3>Create a new branch to work on your contributions</h3>
+   
+   ```
+   git checkout -b 'Branch Name'
+   ```
+4. <h3>Stage your changes for commit</h3>
+5. 
+   ```
+   git add 'file name with file extension'
+   ```
+   ~-~-~ </br>
+   <i>To stage all un-staged files at once</i></br>
+   ~-~-~
+   ```
+   git add .
+   ```
+6. <h3>Commit your changes after adding your contributions</h3>
+
+   ```
+   git commit -m 'write what you added/changed here'
+   ```
+7. <h3>Push your changes up to GitHub</h3>
+   
+   ```
+   git push -u origin 'branch name'
+   ```
+   <h5><i>The text behind of 'git push' is only needed if your are pushing things up to your </br>
+   forked repository for the first time</i></h5> </br>
+8. <h3>Opening a pull request</h3>
+   1. After you had pushed your changes up to your forked repository, go onto your Github Account on GitHub </br>
+   2. Click on your forked repository and at the top of it, there would be a box that says create pull request </br>
+   3. Click on the box and it will bring you to a page that lets you name & describe the changes that were made & why they were made </br>
+   4. After adding the title and description for it, submit the pull request and we will review it </br>
+
+<b>An article that may help you understand this better: </b>[here](https://jarv.is/notes/how-to-pull-request-fork-github/)
 
 ## Contributors
 
