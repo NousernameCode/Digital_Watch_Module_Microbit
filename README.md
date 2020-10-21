@@ -78,7 +78,7 @@ git clone https://github.com/NousernameCode/Microbit-Digital-Watch-Module.git
    git checkout -b 'Branch Name'
    ```
 4. <h3>Stage your changes for commit</h3>
-5. 
+ 
    ```
    git add 'file name with file extension'
    ```
