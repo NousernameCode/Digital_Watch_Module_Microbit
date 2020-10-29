@@ -83,8 +83,7 @@ git clone https://github.com/NousernameCode/Microbit-Digital-Watch-Module.git
    git add 'file name with file extension'
    ```
    ~-~-~ </br>
-   <i>To stage all un-staged files at once</i></br>
-   ~-~-~
+   <b>To stage all un-staged files at once</b></br>
    ```
    git add .
    ```
