@@ -21,18 +21,6 @@ function ClockRunning () {
         TimeDisplay()
     }
 }
-function AlertChecker () {
-    let Distance = 0
-    if (Distance >= 60 && Distance <= 70) {
-        basic.showIcon(IconNames.No)
-        Alert = 1
-    } else {
-        if (Alert == 1) {
-            Alert = 0
-            basic.clearScreen()
-        }
-    }
-}
 input.onButtonPressed(Button.A, function () {
     if (State == ActiveState) {
     	
@@ -93,7 +81,6 @@ input.onButtonPressed(Button.B, function () {
     }
 })
 let hour = 0
-let Alert = 0
 let sec = 0
 let RUN_TIME = 0
 let TIME_NOW = 0
