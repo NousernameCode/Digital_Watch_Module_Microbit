@@ -23,5 +23,9 @@ Date of Release | Language | Link
 </br>
 
 ---
+
+</br>
+
+---
 `Template Version: 1.1` </br>
 `Date of release: 30 Oct 2020`
