@@ -132,5 +132,9 @@ git clone https://github.com/NousernameCode/Microbit-Digital-Watch-Module.git
 
 This project uses the following license: [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
-`Template Version: 1.3`  </br>
-`Last date of modification: 29 oct 2020`
+</br>
+
+---
+
+`Template Version: 1.4` </br>
+`Last date of modification: 31 oct 2020`
