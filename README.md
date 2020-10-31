@@ -8,12 +8,15 @@
 
 <b>Microbit-Digital-Watch-Module</b> is a module that allows Microbit Developers to add a countdown timer that can be modified to the needs of their project.
 
+</br>
+
 ## Prerequisites
 
 <h3>Before you begin, ensure you have met the following requirements:</h3>
 
 * You have a PC running either <b>Windows/MacOS/ChromeOS/Any Linux Distro</b>
 * You have a micro:bit kit that includes the <b>BBC micro:bit, USB Cable, Battery holder</b> & <b>2 AAA Batteries</b>
+
 </br>
 
 ## Compatibility
@@ -44,6 +47,9 @@ Windows/MacOS/Linux
 ```
 git clone https://github.com/NousernameCode/Microbit-Digital-Watch-Module.git
 ```
+
+</br>
+
 ## Contributing to Microbit-Digital-Watch-Module
 
 <b>Prerequisites:</b>
@@ -61,6 +67,8 @@ git clone https://github.com/NousernameCode/Microbit-Digital-Watch-Module.git
     its public counterpart linked to your GitHub Account </br>
     [Generating an SSH key](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account) </br>
     [Adding an SSH key to your account](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
+</br>
 
 <b>To contribute to Microbit-Digital-Watch-Module, follow these steps:</b>
 
@@ -107,6 +115,8 @@ git clone https://github.com/NousernameCode/Microbit-Digital-Watch-Module.git
 
 <b>An article that may help you understand this better: </b>[here](https://jarv.is/notes/how-to-pull-request-fork-github/)
 
+</br>
+
 ## Contributors
 
 <h3><b>Thanks to the following people who have contributed to this project!</b></h3>
@@ -122,11 +132,15 @@ git clone https://github.com/NousernameCode/Microbit-Digital-Watch-Module.git
 
 * [@NousernameCode](https://github.com/NousernameCode)
 
+</br>
+
 ## Contact
 
 <b>Email:</b> <nsgcoding@gmail.com> </br>
 <b>Twitter:</b> [@nousername_code](https://twitter.com/nousername_code) </br>
 <b>Instagram:</b> [@nousername_code](https://www.instagram.com/nousername_code/)
+
+</br>
 
 ## License
 
